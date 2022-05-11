@@ -1,0 +1,8 @@
+
+logging:
+  level: 
+    com.improving.cloudnative: DEBUG
+
+ntrs:
+  redisService:
+    url: "https://improving-util-redis-restless-lion.apps.system.pcf.ntrs.com"
